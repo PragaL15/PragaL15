@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Medical_app(ML)**
 
-- 🌱 I’m currently learning **React.Js , MongoDB , MySQL ,Docker**
+- 🌱 I’m currently learning **React.Js , MongoDB , MySQL ,Go ,Docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
