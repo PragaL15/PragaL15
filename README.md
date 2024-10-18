@@ -2,18 +2,18 @@
 <h3 align="center">Full stack developer</h3>
 
 <p align="center">
-  <a href="https://twitter.com/pragalya_k" target="blank">
+  <a href="https://twitter.com/pragalya_k" target="_blank">
     <img src="https://img.shields.io/twitter/follow/pragalya_k?logo=twitter&style=for-the-badge" alt="pragalya_k" />
   </a>
 </p>
 
-- 🔭 I’m currently working on **Medical_app(ML)**
+- 🔭 I’m currently working on **Medical_app (ML)**
 
 - 🌱 I’m currently learning **React.Js, MongoDB, MySQL, Go, Docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/pragalya_k" target="blank">
+  <a href="https://twitter.com/pragalya_k" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pragalya_k" height="30" width="40" />
   </a>
 </p>
@@ -46,8 +46,14 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pragal15&show_icons=true&locale=en&layout=compact" alt="pragal15" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pragal15&show_icons=true&locale=en&layout=compact" alt="pragal15" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragal15&show_icons=true&locale=en" alt="pragal15" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pragal15&show_icons=true&locale=en" alt="pragal15" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragal15&" alt="pragal15" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragal15&" alt="pragal15" />
+</p>
