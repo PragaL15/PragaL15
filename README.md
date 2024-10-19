@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRAGALYA KANAKARAJ</h1>
-<h3 align="center">Frontend stack developer</h3>
+<h3 align="center">Frontend developer</h3>
 
 <p align="center">
   <a href="https://twitter.com/pragalya_k" target="_blank">
