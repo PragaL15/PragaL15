@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pragalyakanakaraj@gmail.com**
 
-- 📄 Know about my experiences(Resume) https://shorturl.at/mZzdY
+- 📄 Know about my experiences(Resume) https://shorturl.at/YPwlb
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
