@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pragalya-kanakaraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pragalya-kanakaraj/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pragalya-kanakaraj/" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,7 +26,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PragaL15/PragaL15/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/PragaL15/PragaL15/blob/output/github-snake-dark.svg" />
   <br/><br/><br/>
 </div>
 
