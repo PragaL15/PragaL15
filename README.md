@@ -26,3 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragal15&show_icons=true&locale=en" alt="pragal15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragal15&" alt="pragal15" /></p>
+
+### snake gif
+
+![snake gif](https://github.com/PragaL15/PragaL15/blob/output/github-contribution-grid-snake-dark.svg)
