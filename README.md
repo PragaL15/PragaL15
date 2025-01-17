@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragal15&label=Profile%20views&color=0e75b6&style=flat" alt="pragal15" /> </p>
 
-- 🔭 I’m currently working on **Academic dashboard Project**
+- 🔭 I’m currently working on **COE_Module Project**
 
 - 🌱 I’m currently learning **Golang , React , PostgreSQL**
-
-- 👯 I’m looking to collaborate on **GitPortal**
 
 - 📫 How to reach me **pragalyakanakaraj@gmail.com**
 
