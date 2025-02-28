@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **COE Module Project**
 
-- 🌱 I’m currently learning **Golang , React , PostgreSQL**
+- 🌱 I’m currently learning **DSA using Java**
 
 - 📫 How to reach me **pragalyakanakaraj@gmail.com**
 
