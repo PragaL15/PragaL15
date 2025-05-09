@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Wholeseller-Retailer Application**
 
-- 🌱 I’m currently learning **DSA using Java**
+- 🌱 I’m currently learning **Golang - fiber framework**
 
 - 📫 How to reach me **pragalyakanakaraj@gmail.com**
 
