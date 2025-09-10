@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Personalised Expense-Tracker**
 
-- 🌱 I’m currently learning **Golang(fiber framework)**
+- 🌱 I’m currently learning **Golang (fiber framework)**
 
 - 📫 How to reach me **pragalyakanakaraj@gmail.com**
 
